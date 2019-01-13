@@ -11,19 +11,19 @@ Include in your project a README.md file that includes the search terms you used
 the following questions
 
 1. You need to determine how to open a file in Java 1.5
-Search terms:
-List of Java versions
-How many Java versions are there?
-How to open a file in Java 1.5?
-How to open a file in Java 5?
+## Search terms:
+* List of Java versions
+* How many Java versions are there?
+* How to open a file in Java 1.5?
+* How to open a file in Java 5?
 2. You need to determine how to find a directory via Java 8
-Search terms:
-Find a directory via Java 8
-Find a file directory in Java 8
+## Search terms:
+* Find a directory via Java 8
+* Find a file directory in Java 8
 3. You need to format a String
-Search terms:
-String formatting in Java
-String format Java
+## Search terms:
+* String formatting in Java
+* String format Java
 
 ## Debugging Test
 Debugging to determine where an issue is something every developer needs to do.
